@@ -1,0 +1,14 @@
+{
+  "name": "Alexa Clone",
+  "version": "1.0.0",
+  "description": "Alexa clone using Google cloud functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik Divi",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/datastore": "1.1.0"
+  }
+}
